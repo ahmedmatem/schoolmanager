@@ -12,7 +12,7 @@
     using Microsoft.AspNet.Identity.Owin;
     using Microsoft.Owin.Security;
 
-    using SchoolManagementSystem.Web.Models;
+    using SchoolManagementSystem.Web.ViewModels;
     using SchoolManagementSystem.Data.Models;
 
     [Authorize]
